@@ -4,7 +4,7 @@
 
 **-------------------------------- Overview : --------------------------------**
 
-1] The Hospital Management System (HMS) is a full-stack web application developed using the Spring Boot framework and JPA/Hibernate for database persistence. The system is designed to streamline hospital operations by providing an integrated platform to manage patients, doctors, appointments, medical records, billing, and staff administration.
+1] The Hospital Management System (HMS) is a full-stack web application developed using the Spring Boot framework and JPA/Hibernate for database persistence. The system is designed to streamline hospital operations by providing an integrated platform to manage.
 
 2] It enhances efficiency, reduces manual workload, and ensures secure handling of hospital data.
 
